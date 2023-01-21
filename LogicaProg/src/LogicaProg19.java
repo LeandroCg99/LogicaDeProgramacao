@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
- Aula sobre receber/ler dados do teclado, ∴ RecebendoDadosDoTeclado 
+ Aula sobre receber/ler dados do teclado
  */
         //teclado.next();
 		// .next é uma varivel tipo string
