@@ -26,7 +26,10 @@ public class LogicaProg26 {
 		case 7:
 			System.out.println("Domingo");
 			break;
-
+		default:
+			System.out.println("Dia invalido");
+			break;
+			
 		}
 		System.out.println("Fim do programa!");
 	}
