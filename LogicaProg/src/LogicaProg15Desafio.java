@@ -4,12 +4,16 @@
  */
 public class LogicaProg15Desafio {
 	public static void main(String[] args) {
-		float salario = 4200.50F;
+		
+		float salario = 4700.50F;
 		float resultado = 0F;
+		
 		if (salario > 4500) {
 			resultado = salario * 0.3F;
+			
 		} else {
 			resultado = salario * 0.1F;
+			
 		}
 		System.out.println("O valor final e: " + resultado);
 	}

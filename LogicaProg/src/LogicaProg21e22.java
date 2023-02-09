@@ -19,7 +19,7 @@ public class LogicaProg21e22 {
 		System.out.println("Digite o seu nome: ");
 		String nome = input.next();
 		
-		if(nome.equals("") || nome.equalsIgnoreCase("admin") || nome.equalsIgnoreCase("administrador")) {
+		if(nome.equalsIgnoreCase("") || nome.equalsIgnoreCase("admin") || nome.equalsIgnoreCase("administrador")) {
 			System.out.println("Usuario invalido");
 			
 		}else {
